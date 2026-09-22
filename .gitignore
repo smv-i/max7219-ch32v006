@@ -1,0 +1,17 @@
+# Build artifacts
+obj/
+*.o
+*.d
+*.obj
+*.elf
+*.hex
+*.bin
+*.lst
+*.map
+*.exe
+
+# Editor and OS junk
+*.swp
+*~
+.DS_Store
+Thumbs.db
